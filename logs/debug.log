@@ -1,0 +1,12 @@
+2021-08-21 19:27:53  [ pool-1-thread-2:0 ] - [ INFO ]  Software caused connection abort: socket write error
+2021-08-21 19:27:53  [ pool-1-thread-1:0 ] - [ INFO ]  Software caused connection abort: socket write error
+2021-08-21 19:27:53  [ pool-1-thread-1:9 ] - [ INFO ]  Software caused connection abort: socket write error
+2021-08-21 19:27:53  [ pool-1-thread-2:9 ] - [ INFO ]  Software caused connection abort: socket write error
+2021-08-21 19:27:53  [ AWT-EventQueue-0:0 ] - [ INFO ]  Socket closed
+2021-08-21 19:27:54  [ AWT-EventQueue-0:462 ] - [ INFO ]  Socket closed
+2021-08-21 19:27:54  [ AWT-EventQueue-0:1038 ] - [ INFO ]  Socket closed
+2021-08-21 19:28:51  [ pool-1-thread-1:0 ] - [ INFO ]  Software caused connection abort: socket write error
+2021-08-21 19:28:51  [ pool-1-thread-2:0 ] - [ INFO ]  Software caused connection abort: socket write error
+2021-08-21 19:28:51  [ pool-1-thread-2:11 ] - [ INFO ]  Software caused connection abort: socket write error
+2021-08-21 19:28:51  [ pool-1-thread-1:11 ] - [ INFO ]  Software caused connection abort: socket write error
+2021-08-21 19:28:51  [ AWT-EventQueue-0:0 ] - [ INFO ]  Socket closed
